@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845018414952",
+    "project_id": "dailo-9fb7a",
+    "storage_bucket": "dailo-9fb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845018414952:android:755382349d42f3bb7b60dd",
+        "android_client_info": {
+          "package_name": "com.example.dailo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845018414952-cu94dovlmedudtkq4cju60inloktdblt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBguNoCBkj1e9QwSU-1hCDpoX4kPKa8f6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845018414952-cu94dovlmedudtkq4cju60inloktdblt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
