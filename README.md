@@ -1,6 +1,6 @@
 # dailo
 
-A new Flutter project.
+A chat application that allows its users to chat by creating groups or direct communication, which makes it easier for individuals and institutions to achieve better and comfortable communication
 
 ## Getting Started
 
